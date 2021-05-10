@@ -1,4 +1,4 @@
-# xAPIAndUnityProject
+# xAPI And Unity Project
 Example of embedding xAPI in a Unity Project
 
 This is an example of sending and querying xAPI statements in a Unity 3D project.  The game is based on Roll A Ball example from Learn.Unity.com.  The project uses the GBLXAPI.org library for unity.  The required files for GBLXAPI are included in the package, but you may wish to get the latest version from GBLXAPI.org.  This project was created for demonstration purposes and was not intended for production use.  For more information, see https://learningsolutionsmag.com/articles/use-the-gblxapi-library-to-send-xapi-statements-from-unity
