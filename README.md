@@ -1,9 +1,10 @@
 # xAPI And Unity Project
 Example of embedding xAPI in a Unity Project
 
-This is an example of sending and querying xAPI statements in a Unity 3D project.  The game is based on Roll A Ball example from Learn.Unity.com.  The project uses the GBLXAPI.org library for unity.  The required files for GBLXAPI are included in the package, but you may wish to get the latest version from GBLXAPI.org.  This project was created for demonstration purposes and was not intended for production use.  For more information, see https://learningsolutionsmag.com/articles/use-the-gblxapi-library-to-send-xapi-statements-from-unity
+This is an example of sending and querying xAPI statements in a Unity 3D project.  The game is based on Roll A Ball example from Learn.Unity.com.  The project uses the GBLXAPI.org library for unity.  The required files for GBLXAPI are included in the package, but you may wish to get the latest version from GBLXAPI.org.  This project was created for demonstration purposes and is not intended for production use.  For more information, see https://learningsolutionsmag.com/articles/use-the-gblxapi-library-to-send-xapi-statements-from-unity
 
-This project was developed in Unity Version 2019.4.28f1.  Other versions of Unity may require changes to the code or project.
+~~This project was developed in Unity Version 2019.4.28f1.  Other versions of Unity may require changes to the code or project.~~
+Update: This project has been converted to work in 2020.3.25f1.  This required a change to my copy of GBLxAPI that is described [here](https://github.com/gblxapi/UnityGBLxAPI/issues/2).  Other versions of Unity may require additional changes to the code or project.
 
 To see this project in action, you must first get a license for Unity from Unity.com.  Once done and you have installed Unity, follow these steps.
 
